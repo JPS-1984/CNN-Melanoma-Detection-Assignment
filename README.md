@@ -1,6 +1,7 @@
-# Project Name
-> Custom convolutional neural network (CNN) classification model for Melanoma Detection
-
+# Custom convolutional neural network (CNN) classification model for Melanoma Detection
+> This project aims to build a CNN model which can accurately detect melanoma.  It is using
+the images from International Skin Imaging Collaboration(ISIC). A multiclass classification
+model will be used to classify the images.
 
 ## Table of Contents
 * [General Info](#general-information)
